@@ -1,0 +1,19 @@
+{
+
+  "Students" :  [
+
+     {
+
+   "id"       : 1,
+
+   "name"     : "Smith",
+
+   "location" : "Canada",
+
+   "phone"    :  "789456",
+
+   "courses"  :  ["c#","RestApi"]
+
+     }
+     ]
+     }
